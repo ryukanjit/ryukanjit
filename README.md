@@ -6,18 +6,18 @@ Please call me Kan, it's nice to meet you
 <br>
 <div>
     <a href="https://github.com/kanjitp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanjitp&show_icons=true&custom_title=My%20GitHub%20Stats&hide=stars&count_private=true&theme=nightowl" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanjitp&show_icons=true&custom_title=My%20GitHub%20Stats&hide=stars&count_private=true&theme=nord" />
     </a>
     <a href="https://github.com/kanjitp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanjitp&layout=compact&custom_title=Most%20Used%20Languages%20(Public)&theme=nightowl" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanjitp&layout=compact&custom_title=Most%20Used%20Languages%20(Public)&count_private=true&theme=nord" />
     </a>
 </div>
 
 
 
 ## What I'm working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=ip&theme=tokyonight)](https://github.com/kanjitp/ip)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=bon_voyage&theme=tokyonight)](https://github.com/kanjitp/bon_voyage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=ip&theme=nord)](https://github.com/kanjitp/ip)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=bon_voyage&theme=nord)](https://github.com/kanjitp/bon_voyage)
 
 
 ## Contact:
