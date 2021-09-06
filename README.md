@@ -1,6 +1,8 @@
-# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />🦁 <a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp" alt="Visitors">
+# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />          <a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp" alt="Visitors">
 
-Welcome to my GitHub profile, please call me Kan, it's nice to meet you!
+Welcome to my GitHub profile!
+
+Please call me Kan, it's nice to meet you
 
 <div>
     <a href="https://github.com/kanjitp">
@@ -14,7 +16,7 @@ Welcome to my GitHub profile, please call me Kan, it's nice to meet you!
 
 
 ## What I'm working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=ip&theme=tokyonight)](https://github.com/kanjitp/bon_voyage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=ip&theme=tokyonight)](https://github.com/kanjitp/ip)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=bon_voyage&theme=tokyonight)](https://github.com/kanjitp/bon_voyage)
 
 
@@ -25,9 +27,7 @@ Welcome to my GitHub profile, please call me Kan, it's nice to meet you!
 
 
 ### References:
-GitHub README Stats by [Anurag Hazra](https://github.com/kanjitp/anuraghazra) 
-
-
+GitHub README Stats by [Anurag Hazra](https://github.com/anuraghazra) 
 
 [instagram]: https://www.instagram.com/ryukan_jit/
 [linkedin]: https://www.linkedin.com/in/kanjitpakdi
