@@ -9,7 +9,7 @@ Please call me Kan, it's nice to meet you
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanjitp&show_icons=true&custom_title=My%20GitHub%20Stats&hide=stars&count_private=true&theme=nord" />
     </a>
     <a href="https://github.com/kanjitp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanjitp&layout=compact&custom_title=Most%20Used%20Languages%20(Public)&count_private=true&theme=nord" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanjitp&layout=compact&custom_title=Most%20Used%20Languages%20(Public)&langs_count=8&theme=nord" />
     </a>
 </div>
 
