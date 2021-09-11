@@ -16,7 +16,10 @@ Please call me Kan, it's nice to meet you
 
 
 ## What I'm working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=tp&theme=nord)](https://github.com/kanjitp/tp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=ip&theme=nord)](https://github.com/kanjitp/ip)
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=bon_voyage&theme=nord)](https://github.com/kanjitp/bon_voyage)
 
 
