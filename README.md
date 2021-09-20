@@ -13,7 +13,7 @@ Please call me Kan, it's nice to meet you
     </a>
 </div>
 
-
+---
 
 ## What I'm working on:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=tp&theme=nord)](https://github.com/kanjitp/tp)
@@ -21,6 +21,14 @@ Please call me Kan, it's nice to meet you
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=bon_voyage&theme=nord)](https://github.com/kanjitp/bon_voyage)
+
+---
+
+## What I'm curently learning:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=awesome-datascience&theme=nord)](https://github.com/kanjitp/awesome-datascience)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=data-scientist-roadmap&theme=nord)](https://github.com/kanjitp/data-scientist-roadmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=Virgilio&theme=nord)](https://github.com/kanjitp/Virgilio)
+<br>
 
 
 ## Contact:
