@@ -9,7 +9,7 @@ Please call me Kan, it's nice to meet you
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanjitp&show_icons=true&custom_title=My%20GitHub%20Stats&hide=stars&count_private=true&theme=nord" />
     </a>
     <a href="https://github.com/kanjitp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanjitp&layout=compact&custom_title=Most%20Used%20Languages%20(Public)&langs_count=8&theme=nord" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanjitp&layout=compact&custom_title=Languages%20Visible%20to%20Public&langs_count=8&theme=nord" />
     </a>
 </div>
 
@@ -28,6 +28,7 @@ Please call me Kan, it's nice to meet you
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=awesome-datascience&theme=nord)](https://github.com/kanjitp/awesome-datascience)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=data-scientist-roadmap&theme=nord)](https://github.com/kanjitp/data-scientist-roadmap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=Virgilio&theme=nord)](https://github.com/kanjitp/Virgilio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kanjitp&repo=website_tutorial&theme=nord)](https://github.com/kanjitp/website_tutorial)
 <br>
 
 
