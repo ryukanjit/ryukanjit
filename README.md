@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 <br>
-Please call me Kan, it's nice to meet you
+It's Kan, it's nice to meet you
 <br>
 <div>
     <a href="https://github.com/kanjitp">
