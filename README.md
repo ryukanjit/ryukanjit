@@ -1,4 +1,4 @@
-# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" /><a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp" alt="Visitors"> </a>
+# Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" /><a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp" alt="Friendly Visitors"> </a>
 
 ![](/necessary_disorder.gif)  
 
