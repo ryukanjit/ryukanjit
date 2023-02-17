@@ -1,8 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" />          <a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp" alt="Visitors"> </a>
 
-Welcome to my GitHub profile!
 <br>
-It's Kan, it's nice to meet you
+
 <br>
 <div>
     <a href="https://github.com/kanjitp">
