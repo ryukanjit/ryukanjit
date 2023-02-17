@@ -1,6 +1,7 @@
 # Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" /><a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp" alt="Visitors"> </a>
 
-<br>
+![](/necessary_disorder.gif)  
+
 
 <br>
 <div width="100%">
@@ -12,3 +13,5 @@
 
 ### References:
 GitHub README Stats by [Anurag Hazra](https://github.com/anuraghazra) 
+
+Profile GIF by [Necessary Disorder](https://necessary-disorder.tumblr.com)
