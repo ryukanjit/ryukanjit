@@ -18,6 +18,3 @@ It's Kan, it's nice to meet you
 
 ### References:
 GitHub README Stats by [Anurag Hazra](https://github.com/anuraghazra) 
-
-[instagram]: https://www.instagram.com/ryukan_jit/
-[linkedin]: https://www.linkedin.com/in/kanjitpakdi
