@@ -9,11 +9,6 @@
     </a>
 </div>
 
-## Contact:
-[<img align="left" alt="KanJitpakdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ryukan_jit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
-
 
 ### References:
 GitHub README Stats by [Anurag Hazra](https://github.com/anuraghazra) 
