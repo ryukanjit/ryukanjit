@@ -41,7 +41,17 @@
     <img height="20" alt="AWS" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" />
     <img height="20" alt="MatLab" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" />
     <img height="20" alt="Kotlin" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" />
-    <img height="20"  alt="Firebase" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" />
+    <img height="20" alt="Firebase" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" />
+    <img height="20" alt="Hadoop" src="https://hadoop.apache.org/elephant.png" />
+    <img height="20" alt="Figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" />
+    <img height="20" alt="Material UI" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"  />
+    <img height="20" alt="Apache Spark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"  />
+    
+
+
+
+
+
 
 
     
