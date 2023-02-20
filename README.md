@@ -1,4 +1,4 @@
-# Hello there! <a href="https://gitlab.com/kanjit"> <img height="20" alt="gitlab" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" /></a> <a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp&left_color=red&right_color=blue&left_text=Friendly%20Visitors" alt="friedlyvistors"></a>
+# Hello there! <a href="https://gitlab.com/kanjit"> <img height="20" alt="gitlab" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" /></a> <a href="https://github.com/kanjitp"><img src="https://visitor-badge.laobi.icu/badge?page_id=kanjitp&left_color=red&right_color=blue&left_text=Friendly%20Visitors" alt="friedlyvistors"></a> [![pas](https://img.shields.io/static/v1?&message=Gitlab&color=blue&style=flat&label=I%20am%20also%20active%20on)](https://gitlab.com/kanjit)
 
 ![](/necessary_disorder.gif)  
 
