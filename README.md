@@ -2,18 +2,7 @@
 
 ![](/necessary_disorder.gif)  
 
-
 <br>
-<div>
-    <a href="https://github.com/kanjitp">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanjitp&include_all_commits=true&show_icons=true&custom_title=Github&hide=stars,contribs&count_private=true&theme=nord&hide_rank=true" />
-    </a>
-    
-</div>
-
-<br>
-
-
 
 <div>
     <img height="20" alt="HTML" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
@@ -50,6 +39,5 @@
 
      
 ### References:
-GitHub README Stats by [Anurag Hazra](https://github.com/anuraghazra) 
 
 Profile GIF by [Necessary Disorder](https://necessary-disorder.tumblr.com)
