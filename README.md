@@ -34,8 +34,3 @@
     <img height="20" alt="Apache Spark" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"  />
     <img height="20" alt="Hadoop" src="https://hadoop.apache.org/elephant.png" />
 </div>
-
-     
-### References:
-
-Profile GIF by [Necessary Disorder](https://necessary-disorder.tumblr.com)
